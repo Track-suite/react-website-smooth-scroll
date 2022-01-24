@@ -18,8 +18,8 @@ const Navbar = () => {
     <>
       <Nav>
         <NavBarContainer>
-          <NavLogo to="/">Dollo</NavLogo>
-          <MobileIcon>
+          <NavLogo to="/">dollo</NavLogo>
+          <MobileIcon on>
             <FaBars />
           </MobileIcon>
           <NavMenu>
